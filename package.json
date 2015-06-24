@@ -1,7 +1,7 @@
 {
     "name": "autoroute-base",
-    "version": "0.0.0",
-    "description": "flexible autoroute",
+    "version": "0.0.1",
+    "description": "flexible autoroute, template for creating autoroutes.",
     "main": "index.js",
     "scripts": {
         "test": "./node_modules/.bin/mocha -R spec"
