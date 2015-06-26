@@ -3,6 +3,7 @@
 ## Summary
 
 `Auto-route base` is a skeleton for creating custom auto routing capabilities.
+Retrieves code automatically.
 
 ## Installation
 
@@ -11,6 +12,11 @@ Install with `npm`:
 ```
 npm install --save autoroute-base
 ```
+
+## [Project Status](http://www.walkercoderanger.com/blog/2015/06/advice-for-open-source-projects/)
+
+- Stable/Release
+- Active (June 26, 2015)
 
 ## Example
 
