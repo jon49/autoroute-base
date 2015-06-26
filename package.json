@@ -1,6 +1,6 @@
 {
     "name": "autoroute-base",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "flexible autoroute, template for creating autoroutes.",
     "main": "index.js",
     "scripts": {

@@ -15,7 +15,7 @@ npm install --save autoroute-base
 
 ## [Project Status](http://www.walkercoderanger.com/blog/2015/06/advice-for-open-source-projects/)
 
-- Stable/Release
+- Stable/Release [![Build Status](https://secure.travis-ci.org/jon49/autoroute-base.png?branch=master)](http://travis-ci.org/jon49/autoroute-base)
 - Active (June 26, 2015)
 
 ## Example
