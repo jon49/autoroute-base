@@ -24,7 +24,7 @@ See the test for a simple example.
 
 `autoroute-express-promise` example (in TypeScript - to see a vanilla JavaScript example see below).
 
-```ts
+```js
 import {createAutoRoute, method as method_} from 'autoroute-base'
 import _ = require('lodash')
 
